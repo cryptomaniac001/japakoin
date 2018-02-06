@@ -1,0 +1,2 @@
+# japakoin
+mining
